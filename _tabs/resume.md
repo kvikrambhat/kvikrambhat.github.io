@@ -58,7 +58,7 @@ people into leadership, and set the architectural standards a team is measured a
 
 **What that looks like in practice**
 
-- Built and led a team of 18 engineers, personally interviewing and hiring 10–12 for
+- Built and led a team of 18 engineers, personally interviewing and hiring 10-12 for
   the Wi-Fi certification workstream and establishing hiring and onboarding standards.
 - Grew two direct reports into team lead roles. Several engineers earned Connectivity
   Standards Alliance recognition for contributions to Matter test plan updates and
@@ -68,7 +68,7 @@ people into leadership, and set the architectural standards a team is measured a
   Decision Records within a SAFe Agile model.
 - Presented platform scalability roadmap and cloud adoption strategy directly to
   C-level leadership, informing infrastructure investment decisions.
-- Represented GRL in cross-company certification working groups of 50–100 engineers
+- Represented GRL in cross-company certification working groups of 50-100 engineers
   drawn from Apple, Google, Intel, and other participating companies.
 - Mentored graduate engineers onto the data platform team through regular code
   reviews, pair programming, and architectural walkthroughs.
@@ -78,7 +78,7 @@ people into leadership, and set the architectural standards a team is measured a
 ## Experience
 
 **UI Architect - Solution Architecture, IIoT/SCADA Platform**
-*Fluence, Bangalore · Feb 2024 – Present*
+*Fluence, Bangalore · Feb 2024 - Present*
 
 Fluence (NASDAQ: FLNC) is a global energy storage provider whose digital products
 manage 22.8 GW of renewable and storage assets. I architect across UI, Configuration,
@@ -92,9 +92,9 @@ system that validates component versions and artifact availability before a rele
 proceeds.
 
 **Technical Manager**
-*Prescinto Technologies, Bangalore · Aug 2023 – Feb 2024*
+*Prescinto Technologies, Bangalore · Aug 2023 - Feb 2024*
 
-Real-time monitoring and analytics for utility-scale renewable plants, 50–200 MW. Led
+Real-time monitoring and analytics for utility-scale renewable plants, 50-200 MW. Led
 four engineers across cloud and application development, owning architecture decisions
 for scalability and reliability.
 
@@ -106,7 +106,7 @@ for scalability and reliability.
   cloud architecture, establishing monitoring, alerting, and performance baselines.
 
 **Software Development Manager**
-*Granite River Labs, Bangalore · Apr 2019 – Jul 2023*
+*Granite River Labs, Bangalore · Apr 2019 - Jul 2023*
 
 GRL is a global connectivity testing and certification company operating 10+ labs
 across three continents, serving 500+ semiconductor and consumer electronics companies.
@@ -117,7 +117,7 @@ across three continents, serving 500+ semiconductor and consumer electronics com
   compliance tooling used across the CSA member ecosystem.
 
 **Technical Lead / Senior Software Engineer**
-*Granite River Labs, Bangalore · Oct 2013 – Apr 2019*
+*Granite River Labs, Bangalore · Oct 2013 - Apr 2019*
 
 - Automated IoT certification testbed setup - auto-detecting devices over USB, applying
   topology configuration, and booting in the correct order. Test topologies form in
