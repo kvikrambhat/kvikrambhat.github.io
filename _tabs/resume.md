@@ -7,7 +7,7 @@ order: 0
 Solution architect and engineering leader, 13 years across energy storage, renewables,
 and connectivity certification. I took on management early at a fast-growing startup,
 then moved deliberately back into hands-on architecture to deepen technical judgment.
-Both modes are below — same track record, different emphasis.
+Both modes are below - same track record, different emphasis.
 
 Currently in Bangalore. Open to remote.
 
@@ -18,7 +18,7 @@ Currently in Bangalore. Open to remote.
 
 ## As an Architect
 
-I design distributed, real-time systems at the IT/OT convergence layer — SCADA/HMI
+I design distributed, real-time systems at the IT/OT convergence layer - SCADA/HMI
 platforms, event-driven IIoT pipelines, and cloud-native modernization. At Fluence I
 architect the real-time platform streaming over a million data points across 100,000+
 MQTT topics under 99%+ availability SLAs, at utility-scale installations from 100 MW
@@ -32,14 +32,14 @@ to 4 GW.
   service subscribes to just those topics and scales horizontally on its own. A
   TimescaleDB/Hasura prefetch layer hydrates recent history on load.
 - Architected the React-based SCADA/HMI framework visualizing up to a million
-  real-time data points — WebSocket streaming patterns, a micro-frontend structure,
+  real-time data points - WebSocket streaming patterns, a micro-frontend structure,
   and a reusable charting and diagramming component set on AG Grid, AG Charts, and GoJS.
 - Designed the site control authority architecture, guaranteeing a single active
   control source with automatic failover in under a minute across Fluence SCADA, RTU,
   third-party SCADA, and customer integrations.
 - Automated a large part of site commissioning by building and owning the site
-  configuration toolkit end to end — template model through generation engine to
-  production code — expanding device templates and a site layout definition into the
+  configuration toolkit end to end - template model through generation engine to
+  production code - expanding device templates and a site layout definition into the
   complete configuration set for every device and service on a site.
 - Rebuilt the Device Catalog from a wizard-based UI into a JSON schema-driven
   architecture with an Excel-like grid interface, cutting data entry from one to two
@@ -77,7 +77,7 @@ people into leadership, and set the architectural standards a team is measured a
 
 ## Experience
 
-**UI Architect — Solution Architecture, IIoT/SCADA Platform**
+**UI Architect - Solution Architecture, IIoT/SCADA Platform**
 *Fluence, Bangalore · Feb 2024 – Present*
 
 Fluence (NASDAQ: FLNC) is a global energy storage provider whose digital products
@@ -119,7 +119,7 @@ across three continents, serving 500+ semiconductor and consumer electronics com
 **Technical Lead / Senior Software Engineer**
 *Granite River Labs, Bangalore · Oct 2013 – Apr 2019*
 
-- Automated IoT certification testbed setup — auto-detecting devices over USB, applying
+- Automated IoT certification testbed setup - auto-detecting devices over USB, applying
   topology configuration, and booting in the correct order. Test topologies form in
   seconds rather than an hour of manual setup per run.
 - Replaced a fixed-interval polling loop in the firmware data path with a
@@ -168,11 +168,11 @@ architecture governance, executive communication
 
 ## Education
 
-Bachelor of Engineering, Computer Science — Sambhram Institute of Technology (VTU),
+Bachelor of Engineering, Computer Science - Sambhram Institute of Technology (VTU),
 Bangalore, 2013
 
 ## Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900), 2026
-- Hugging Face — Agents, MCP, Foundations of Agents (2025)
+- Hugging Face - Agents, MCP, Foundations of Agents (2025)
 - Multi AI Agent Systems with crewAI, DeepLearning.AI (2025)
